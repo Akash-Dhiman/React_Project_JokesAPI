@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  margin: 0px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  border-radius: 10px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(157, 242, 212);
+  font-weight: 100px;
+  text-shadow: 2px 3px black;
+}
+h3{
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px seagreen;
+  color: white;
+  padding: 10px;
+  margin-top: 40px;
+  text-shadow: 3px 3px 1px rgb(99, 172, 39);
+  background-color: rgb(201, 216, 179);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+button{
+ background-color: rgb(72, 158, 64);
+ color: white;
+ padding: 10px;
+ margin-top: 40px;
+ box-shadow: 3px 3px 5px rgb(135, 221, 145);
+ border-radius: 5px;
+ }
+input{
+
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgb(145, 145, 216);
+
+
+ 
+}
